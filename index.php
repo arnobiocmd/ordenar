@@ -15,9 +15,16 @@
 </head>
 <body>
 
-	
+
 
 <div class="container">
+
+	<select name="ordem">
+	<option></option>
+	<option value="nome">Pelo Nome</option>
+	<option value="idade">Pela Idade</option>
+	
+</select>
  
   <table class="table">
     <thead class="thead-dark">
